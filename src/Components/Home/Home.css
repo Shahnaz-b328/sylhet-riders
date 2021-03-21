@@ -1,0 +1,17 @@
+@media (min-width: 992px) {  
+.background-design{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+}
+.background-color{
+    background-color: palegoldenrod;
+    height: 400px;
+}
+.title{
+   color: tomato;
+   font-weight: 400;
+   margin-left: 50px;
+   margin-top: 10px;
+}
